@@ -185,3 +185,14 @@ h2 {
     border: 2px ;
     margin: 0px 8px 100px 0px;    
 }
+
+.feature-referance {
+    cursor: pointer;
+    color: #dd4b39;
+}
+
+.cursor {
+    display: flex;
+    justify-content: left;
+    margin: 0px 10px;
+}
