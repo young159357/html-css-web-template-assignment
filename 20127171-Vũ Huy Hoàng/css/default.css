@@ -194,5 +194,6 @@ h2 {
 .cursor {
     display: flex;
     justify-content: left;
-    margin: 0px 10px;
+    margin: 0px 10px 0px 0px;
+    line-height: 20px;
 }
